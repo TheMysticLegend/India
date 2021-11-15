@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+    background-color: brown;
+}
+
+p
+{
+    color: #000000;
+}
+
+p:hover
+{
+    color:darkred;
+}
+
+h1
+{
+    color: black;
+}
+
+h1:hover
+{
+    color: darkred;
+}
+
+#marqueeStyle
+{
+    color: black;
+    background-color: darkred;
+}
+
+#marqueeStyle:hover
+{
+    background-color: red;
+}
